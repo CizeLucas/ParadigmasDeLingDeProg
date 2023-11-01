@@ -1,0 +1,5 @@
+<assign> -> <id> = <lgcl_expr>
+
+<id> = a || b || c || (...) || z
+
+<lgcl_expr> = 

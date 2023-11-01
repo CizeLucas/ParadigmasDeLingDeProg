@@ -1,0 +1,4 @@
+//(A+B1)*False<->D //comentario
+(!A+B1)*(True+!False)<->D //TRue sendo identificado como identificador por conta do R maiusculo
+( A  +% B1  ) * C < - D 
+( A + !1B )*False<->D //identificador nao pode ser numero ou começar com um numero
