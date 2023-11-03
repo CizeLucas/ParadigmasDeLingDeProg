@@ -1,8 +1,8 @@
-//#include <iostream>
+//Cizé Lucas Gomes Lima - 538864
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
-#include <cstring>
+#include <string.h>
 
 FILE *file;
 //char charTemp; 
